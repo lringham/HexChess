@@ -5,4 +5,4 @@ HexChess is a chess style multiplayer game about predicting your opponent's move
 HexChess is a personal project that a friend Nathan Yaskiw and I developed. We wanted to create a game similar to Chess but without a well-defined set of patterns and play styles. We have worked toward this goal by allowing the player to arrange their game pieces any way they wish in their starting area. This freedom serves to minimize standard opening moves. During gameplay, player moves are performed concurrently. When both players have submitted moves, the outcome of the round will be resolved and animated.
  
 ![Screenshot](./images/screenshot.png)
-*A screenshot showing the red player's general being surrounded by two blue knights.*
+*A screenshot showing the red player's General being surrounded by two blue Knights.*
